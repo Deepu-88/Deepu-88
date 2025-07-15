@@ -49,7 +49,8 @@ I'm a **motivated BCA graduate** passionate about **full-stack development**, **
 
 ### 🔊 E-Commerce   
 **Feb 2024 – Sep 2024**  
-**Tech:** ○ Designed and developed a fully functional e-commerce frontend interface using HTML for layout, CSS for styling and
+**Tech:** Html, Css, Java Script
+○ Designed and developed a fully functional e-commerce frontend interface using HTML for layout, CSS for styling and
 responsiveness, and JavaScript for interactivity.
 ○ Created features such as product listings, shopping cart functionality, product filtering, and a dynamic search bar.
 ○ Implemented basic cart logic to add/remove items and update total price in real time.
